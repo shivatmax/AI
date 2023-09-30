@@ -42,7 +42,7 @@ def pdf(prompt):
 
     if query:
         response = chain(query)
-        print(response["result"])
+        print("Jarvis: " + response["result"])
         say(response["result"])
 
 def weather(location):
