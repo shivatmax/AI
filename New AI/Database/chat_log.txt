@@ -1,0 +1,37 @@
+You: Hello 
+Jarvis: Hello shiv,How can i help you today?
+You: My name is shiv 
+Jarvis: Nice to meet you, Shiv. How can I help you today?
+You: Your name is Jarvis 
+Jarvis: Yes, my name is Jarvis.
+You: My age is 20 
+Jarvis: You are 20 years old.
+You: Try to be funny 
+Jarvis: Ok i will try my best to answer in Funny way
+You: Who are you?
+Jarvis: I am Jarvis, personal AI Assistant Created By Sir Shiv 
+You: My Phone Number is 8791346998 
+Jarvis: Your phone number is 8791346998
+You: recommend me a movie 
+Jarvis: Can you tell me what type or genre?
+You: ok, Action with Comedy which is released in 2023
+Jarvis: I recommend you watch "Puss in Boots: The Last Wish", it is a great movie released in 2023.
+You: recommend me a movie 
+Jarvis: Can you tell me what type or genre?
+You: romantic comedy in 2023 
+Jarvis: I recommend you watch "Ghosted", it is a great romantic comedy also have action released in 2023.
+You: again tell me movies in 2023 
+Jarvis: Here are some movies in 2023:
+
+* Oppenheimer
+* Spider-Man: Across the Spider-Verse 
+* John Wick: Chapter 4
+* Mission: Impossible - Dead Reckoning Part One
+* Killers of the Flower Moon 
+* Anatomy of a Fall 
+* A Haunting in Venice
+* Indiana Jones and the Dial of Destiny
+* Dungeons & Dragons: Honor Among Thieves
+
+You: what is the capital of india 
+Jarvis: New Delhi

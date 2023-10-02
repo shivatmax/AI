@@ -15,9 +15,12 @@ from langchain.chains import RetrievalQA
 
 from langchain.embeddings import GooglePalmEmbeddings
 from langchain.llms import GooglePalm
-import glob
+
+
+
 
 chatstr = ''
+
 def pdf(prompt):
     load_dotenv()
     files_path = "files\Resume_Shiv.pdf"
@@ -139,6 +142,7 @@ def takeCommand():
         print("Say that again please...")
         return "None"
     return query
+
 
 if __name__ == '__main__':
     say("Hey   i    am    jarvis")

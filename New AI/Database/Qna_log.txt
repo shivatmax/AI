@@ -1,0 +1,10 @@
+Question: what is python 
+Answer: python is an interpreted, high-level general-purpose programming language
+Question: what is kinematics 
+Answer: kinematics is the study of motion
+Question: what is physics 
+Answer: physics is the natural science that deals with matter and its motion and energy
+Question: what is unit of electron 
+Answer: coulomb
+Question: what is 349 + 456 + 234 
+Answer: 1040
